@@ -1,0 +1,14 @@
+{
+"strikers": [
+					{ "name": "strikers Higuain", "club": "Napoli" },
+					{ "name": "strikers Chettri", "club": "Bengaluru FC" }
+			 ] 
+"employee": [
+					{ "name": "employee Higuain", "club": "Napoli" },
+					{ "name": "employee Chettri", "club": "Bengaluru FC" }
+			] 
+"defender": [
+					{ "name": "defender Higuain", "club": "Napoli" },
+					{ "name": "defender Chettri", "club": "Bengaluru FC" }
+			 ] 
+}	

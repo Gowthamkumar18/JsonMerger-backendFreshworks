@@ -1,0 +1,18 @@
+
+JSON MERGER is a program that can merge a series of files containing JSON array of Objects into a single
+file containing one JSON object.
+
+This program gives the generic solution to handle different types of JSON arrays and merge them with the respective types.
+
+This is a Java program which
+  1.Extracts the input JSON files.
+  2.Parses the JSON obejct.
+  3.Combines all the JSON objects.
+  4.Writes the final merged into the file.
+
+Algorithmic Complexity:
+  1.HashMap is used to handle different types of fields in the input files. 
+  2.GSON and JSON simple library is used as JSON toolkit.
+
+Easy to run:
+  Download the project and run the FileJsonMerger class in the src folder.
